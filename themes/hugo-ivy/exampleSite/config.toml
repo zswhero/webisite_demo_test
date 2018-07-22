@@ -1,7 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Hugo Ivy"
+title = "Siwei Zeng"
 theme = "hugo-ivy"
+enableEmoji = true
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
